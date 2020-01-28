@@ -1,6 +1,6 @@
 # BlaBlaCar technical test
 
-This project is a technical test for a Senior Android at BlaBlaCar
+This project is a technical test for an Senior Android position at BlaBlaCar
 
 ## Test Description
 
@@ -12,7 +12,7 @@ The app will contains two screens, the first one will handle the search and the 
 
 ## Constraint
 
-The API is using OAuth2, it means that you have to be authenticated to request a list of trip, to do have to request a 
+The API is using OAuth2, it means that you have to be authenticated to request a list of trip, to do so you have to request a 
 specific url with a `client secret` and a `client id`, then add the token received into the header of all other request.
 
 ## Realisation
