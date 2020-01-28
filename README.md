@@ -1,6 +1,6 @@
 # BlaBlaCar technical test
 
-This project is a technical test for an Senior Android position at BlaBlaCar
+This project is a technical test for a Senior Android position at BlaBlaCar
 
 ## Test Description
 
